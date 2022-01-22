@@ -1,3 +1,3 @@
 # Navigation Nation
 
-A vanilla JS project to practise animation
+A vanilla JS project to practise animating a navigation bar
